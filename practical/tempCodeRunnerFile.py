@@ -1,2 +1,0 @@
-
-        display_results(analysis)
