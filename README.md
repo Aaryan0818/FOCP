@@ -1,1 +1,1 @@
-"# FOCP" 
+This submission serves as the final assessment for the FOCP module and includes three folders: "Portfolio", "Project-chat", and "Project-f1". The "Portfolio" folder contains all the weekly tasks completed during the course. The "Project-chat" folder presents a system designed to assist prospective students by providing answers through an interactive online chat. The "Project-f1" folder includes a program that processes a timing system file to analyze and display the performance of current drivers.
