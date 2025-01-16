@@ -1,0 +1,9 @@
+[2025-01-16 11:59:31] User: {'Aaryan'}
+[2025-01-16 11:59:31] Jennifer: Hello Aaryan! I'm Jennifer, your virtual assistant.
+
+[2025-01-16 11:59:47] User: hi
+[2025-01-16 11:59:47] Hi, how may i help you.
+
+[2025-01-16 12:00:00] User: j
+[2025-01-16 12:00:00] Jennifer: Oh no, I'm experiencing some technical difficulties. Goodbye!
+

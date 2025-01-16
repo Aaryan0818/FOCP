@@ -1,0 +1,18 @@
+{
+    "responses": {
+      "Hello": "Hi, how may i help you.",
+      "Hi":  "Hi, how may i help you.",
+      "coffee": "The campus coffee bar is open from 8 AM to 4 PM.",
+      "library": "The library is open from 9 AM to 8 PM every day.",
+      "hours": "Our campus is open from 7 AM to 9 PM.",
+      "admissions": "For information about admissions, please visit our website or contact the admissions office.",
+      "courses": "We offer a variety of undergraduate and postgraduate courses. Visit the course catalog online.",
+      "events": "Check out our campus events on the official University events page.",
+      "parking": "There are parking spaces available at the North and South campuses.",
+      "sports": "We have great sports facilities! You can book them through the sports department.",
+      "careers": "The careers center is open Monday to Friday from 9 AM to 5 PM.",
+      "wifi": "Free Wi-Fi is available across campus. Just connect to 'UniPopWiFi'."
+      
+    }
+  }
+  
